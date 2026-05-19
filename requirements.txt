@@ -1,0 +1,12 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+xgboost>=2.0
+scipy>=1.11
+jupyter>=1.0
+nbformat>=5.7
+streamlit>=1.28
+
+# Production: replace MLPRegressor in src/ml_models.py with an LSTM
+# torch>=2.0
