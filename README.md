@@ -194,8 +194,11 @@ real data is the production extension.
 ## 👤 Submission details
 
 **Candidate:** Gagandeep Singh Choudhary
+
 **Institution:** JECRC College
+
 **Batch:** B.Tech CSE · 2027
+
 **Problem statement:** Digital twin of transformer or any other electrical equipment
 
 For the full design document, see `docs/ABB_EngineeredX_PS1_DigitalTwin.pdf`.
